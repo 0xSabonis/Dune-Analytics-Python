@@ -1,8 +1,4 @@
-Here's the simplified version of your README, followed by the GitHub README content:
-
----
-
-### Dunebuggy
+### Overview
 
 Dunebuggy is a lightweight (unofficial) Python SDK for [Dune.com](https://dune.com/home). It allows you to interact with public queries on Dune, fetch results, and even create new queries using SQL.
 
